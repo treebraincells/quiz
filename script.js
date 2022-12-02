@@ -100,8 +100,8 @@ function showQuetions(index){
         option[i].setAttribute("onclick", "optionSelected(this)");
     }
 }
-let tickIconTag = '<div class="icon tick"><i class="fas fa-check"></i></div>';
-let crossIconTag = '<div class="icon cross"><i class="fas fa-times"></i></div>';
+let tickIconTag = '<div class="icon tick"><i class="fa-regular fa-circle-check"></i></div>';
+let crossIconTag = '<div class="icon cross"><i class="fa-regular fa-circle-xmark"></i></div>';
 
 function optionSelected(answer){
     clearInterval(counter);
@@ -165,14 +165,14 @@ function startTimer(time){
         }
         if(time < 0){
             clearInterval(counter);
-            timeText.textContent = "Time Off";
+            timeText.textContent = "Time Out";
             const allOptions = option_list.children.length;
             let correcAns = questions[que_count].answer;
             for(i=0; i < allOptions; i++){
                 if(option_list.children[i].textContent == correcAns){
                     option_list.children[i].setAttribute("class", "option correct");
                     option_list.children[i].insertAdjacentHTML("beforeend", tickIconTag);
-                    console.log("Time Off: Auto selected correct answer.");
+                    console.log("Time Out: Auto selected correct answer.");
                 }
             }
             for(i=0; i < allOptions; i++){
