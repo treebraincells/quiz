@@ -1,2 +1,1 @@
-# Tokyo-Olympics-2021-Quiz-with-timer
-# quiz
+# Quiz for it fair
