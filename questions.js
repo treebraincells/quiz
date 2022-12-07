@@ -1,5 +1,8 @@
-let questions = [
-    {
+let questions = []
+let randomindex = []
+
+let allquestions = [
+  {
     numb: 1,
     question: "Who is the founder of Kumarans Schools",
     answer: "Smt R. Anasuya Devi",
@@ -200,3 +203,12 @@ let questions = [
     ]
   },
 ];
+
+while (randomindex.length < 10) {
+  var r = Math.floor(Math.random() * 20)
+  if (randomindex.indexOf(r) === -1) randomindex.push(r);
+}
+for (i=0;i<10;i++) {
+  questions.push(allquestions[randomindex[i]])
+  questions[i].numb = i + 1;
+}
