@@ -16,8 +16,7 @@ let questions = [
     options: [
       "86.77m",
       "91.04m",
-      "89.27m",
-      "87.58m"
+      "89.27m"
     ]
   },
   {
@@ -27,8 +26,7 @@ let questions = [
     options: [
       "23, July, 2021",
       "20, July, 2021",
-      "27, July, 2021",
-      "25, July, 2021"
+      "27, July, 2021"
     ]
   },
   {
@@ -38,8 +36,7 @@ let questions = [
     options: [
       "6, August, 2021",
       "8, August, 2021",
-      "9, August, 2021",
-      "7, August, 2021"
+      "9, August, 2021"
     ]
   },
   {
@@ -49,8 +46,7 @@ let questions = [
     options: [
       "37",
       "35",
-      "45",
-      "33"
+      "45"
     ]
   },
   {
@@ -60,8 +56,7 @@ let questions = [
     options: [
       "Australlia",
       "USA",
-      "China",
-      "Japan"
+      "China"
     ]
   },
   {
@@ -71,8 +66,7 @@ let questions = [
     options: [
       "Austria",
       "Syria",
-      "Moldova",
-      "Iceland"
+      "Moldova"
     ]
   },
   {
@@ -82,8 +76,7 @@ let questions = [
     options: [
       "1041",
       "10057",
-      "1061",
-      "1011"
+      "1061"
     ]
   },
   {
@@ -93,8 +86,7 @@ let questions = [
     options: [
       "Gold",
       "Sliver",
-      "Bronze",
-      "None"
+      "Bronze"
     ]
   },
   {
@@ -104,8 +96,7 @@ let questions = [
     options: [
       "59kg",
       "49kg",
-      "69kg",
-      "Mirabai Chanu did not participate"
+      "69kg"
     ]
   },
   {
@@ -115,8 +106,7 @@ let questions = [
     options: [
       "Johannes Vetter",
       "Keshorn Walcott",
-      "Anderson Peters",
-      "Julius Yego"
+      "Anderson Peters"
     ]
   },
   {
@@ -126,8 +116,7 @@ let questions = [
     options: [
       "204",
       "197",
-      "196",
-      "173"
+      "196"
     ]
   },
   {
@@ -161,6 +150,61 @@ let questions = [
       "Trust",
       "Honor",
       "Freedom"
+    ]
+  },
+  {
+    numb: 16,
+    question: "What is the Tokyo Olympics 2020 Mascot?",
+    answer: "Miraitowa",
+    options: [
+      "PyeongChang",
+      "Miraitowa",
+      "Nagano",
+      "Phevos and Athena"
+    ]
+  },
+  {
+    numb: 17,
+    question: "What is the Tokyo Olympics 2020 Mascot?",
+    answer: "Miraitowa",
+    options: [
+      "PyeongChang",
+      "Miraitowa",
+      "Nagano",
+      "Phevos and Athena"
+    ]
+  },
+  {
+    numb: 18,
+    question: "What is the Tokyo Olympics 2020 Mascot?",
+    answer: "Miraitowa",
+    options: [
+      "PyeongChang",
+      "Miraitowa",
+      "Nagano",
+      "Phevos and Athena"
+    ]
+  },
+  {
+    numb: 19,
+    question: "What is the Tokyo Olympics 2020 Mascot?",
+    answer: "Miraitowa",
+    options: [
+      "PyeongChang",
+      "Miraitowa",
+      "Nagano",
+      "Phevos and Athena"
+    ]
+  },
+  {
+    numb: 20,
+    question: "What is the Tokyo Olympics 2020 Mascot?",
+    answer: "Miraitowa",
+    options: [
+      "PyeongChang",
+      "Miraitowa",
+      "Nagano",
+      "Phevos and Athena"
     ]
   },
 ];
