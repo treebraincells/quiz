@@ -1,13 +1,12 @@
 let questions = [
     {
     numb: 1,
-    question: "How many gold medals has India won in olympics?",
-    answer: "10",
+    question: "Who is the founder of Kumarans Schools",
+    answer: "Smt R. Anasuya Devi",
     options: [
-      "15",
-      "12",
-      "10",
-      "17"
+      "Mrs.Deepa Sridhar",
+      "Smt. Meenakshi Balakrishnan",
+      "Smt R. Anasuya Devi"
     ]
   },
     {
