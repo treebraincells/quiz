@@ -126,8 +126,7 @@ let questions = [
     options: [
       "Shilpa Garg",
       "Pooja Mishra",
-      "Bhavani Devi",
-      "India did not qualify"
+      "Bhavani Devi"
     ]
   },
   {
@@ -137,8 +136,7 @@ let questions = [
     options: [
       "PyeongChang",
       "Miraitowa",
-      "Nagano",
-      "Phevos and Athena"
+      "Nagano"
     ]
   },
   {
@@ -148,8 +146,7 @@ let questions = [
     options: [
       "Five continents",
       "Trust",
-      "Honor",
-      "Freedom"
+      "Honor"
     ]
   },
   {
@@ -159,8 +156,7 @@ let questions = [
     options: [
       "PyeongChang",
       "Miraitowa",
-      "Nagano",
-      "Phevos and Athena"
+      "Nagano"
     ]
   },
   {
@@ -170,8 +166,7 @@ let questions = [
     options: [
       "PyeongChang",
       "Miraitowa",
-      "Nagano",
-      "Phevos and Athena"
+      "Nagano"
     ]
   },
   {
@@ -181,8 +176,7 @@ let questions = [
     options: [
       "PyeongChang",
       "Miraitowa",
-      "Nagano",
-      "Phevos and Athena"
+      "Nagano"
     ]
   },
   {
@@ -192,8 +186,7 @@ let questions = [
     options: [
       "PyeongChang",
       "Miraitowa",
-      "Nagano",
-      "Phevos and Athena"
+      "Nagano"
     ]
   },
   {
@@ -203,8 +196,7 @@ let questions = [
     options: [
       "PyeongChang",
       "Miraitowa",
-      "Nagano",
-      "Phevos and Athena"
+      "Nagano"  
     ]
   },
 ];
