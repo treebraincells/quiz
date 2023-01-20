@@ -24,182 +24,182 @@ let allquestions = [
   },
   {
     numb: 3,
-    question: "?",
-    answer: "2009",
+    question: "Can we see the cpu when a computer is running?",
+    answer: "No",
     options: [
-      "2009",
-      "2011",
-      "2005"
+      "Yes",
+      "No",
+      "On some computers "
     ]
   },
   {
     numb: 4,
-    question: "Which forest surrounds the Mallasandra campus of SKPS?",
-    answer: "8, August, 2021",
+    question: "What programming language is used to make the base of windows?",
+    answer: "c",
     options: [
-      "Turahalli Forest",
-      "8, August, 2021",
-      "9, August, 2021"
+      "a",
+      "c++",
+      "c"
     ]
   },
   {
     numb: 5,
-    question: "Dummy question 5",
-    answer: "33",
+    question: "What does ROM ",
+    answer: "read only memory",
     options: [
-      "37",
-      "35",
-      "45"
+      "read only memory",
+      "read only module",
+      "right only memory"
     ]
   },
   {
     numb: 6,
-    question: "Dummy question 6",
-    answer: "USA",
+    question: "What is the extension for apps on windows",
+    answer: ".exe",
     options: [
-      "Australlia",
-      "USA",
-      "China"
+      ".bin",
+      ".app",
+      ".exe"
     ]
   },
   {
     numb: 7,
-    question: "Dummy question 7",
-    answer: "Syria",
+    question: "What is the latest (2023) generation of intel cpus",
+    answer: "12th",
     options: [
-      "Austria",
-      "Syria",
-      "Moldova"
+      "10th",
+      "7th",
+      "12th"
     ]
   },
   {
     numb: 8,
-    question: "Dummy question 8",
-    answer: "1061",
+    question: "How many letters are there on a keyboard",
+    answer: "26",
     options: [
-      "1041",
-      "10057",
-      "1061"
+      "34",
+      "26",
+      "58"
     ]
   },
   {
     numb: 9,
-    question: "Dummy question 9",
-    answer: "Bronze",
+    question: "What software is most games made with?",
+    answer: "Unreal Engine",
     options: [
-      "Gold",
-      "Sliver",
-      "Bronze"
+      "Unity",
+      "Unreal Engine",
+      "Scratch"
     ]
   },
   {
     numb: 10,
-    question: "Dummy question 10",
-    answer: "49kg",
+    question: "What are common languages for web development?",
+    answer: "both",
     options: [
-      "59kg",
-      "49kg",
-      "69kg"
+      "html, css, js",
+      "dart, java",
+      "both"
     ]
   },
   {
     numb: 11,
-    question: "Dummy question 11",
-    answer: "Johannes Vetter",
+    question: "Can websites be made without html?",
+    answer: "Additional steps are required",
     options: [
-      "Johannes Vetter",
-      "Keshorn Walcott",
-      "Anderson Peters"
+      "Yes",
+      "No",
+      "Additional steps are required"
     ]
   },
   {
     numb: 12,
-    question: "Dummy question 12",
-    answer: "196",
+    question: "Do you need to install an editor to write code?",
+    answer: "Not required but recommended",
     options: [
-      "204",
-      "197",
-      "196"
+      "Not required but recommended",
+      "Yes",
+      "Notepad is good enough"
     ]
   },
   {
     numb: 13,
-    question: "Dummy question 13",
-    answer: "Bhavani Devi",
+    question: "What are the parts of a computer which are essential for it to function? ",
+    answer: "cpu, ram, hard disk/ssd, display",
     options: [
-      "Shilpa Garg",
-      "Pooja Mishra",
-      "Bhavani Devi"
+      "cpu, ram, hard disk/ssd, display, keyboard, mouse/trackpad",
+      "cpu, ram",
+      "cpu, ram, hard disk/ssd, display"
     ]
   },
   {
     numb: 14,
-    question: "Dummy question 14",
-    answer: "Miraitowa",
+    question: "The new microsoft edge is based on: ",
+    answer: "Chromium",
     options: [
-      "PyeongChang",
-      "Miraitowa",
-      "Nagano"
+      "Internet explorer",
+      "Chromium",
+      "Firefox"
     ]
   },
   {
     numb: 15,
-    question: "Dummy question 15",
+    question: "Windows added explorer tabs in which update?",
     answer: "Five continents",
     options: [
-      "Five continents",
-      "Trust",
-      "Honor"
+      "windows 10 april update",
+      "windows 11 initial release",
+      "windows 11 october update"
     ]
   },
   {
     numb: 16,
-    question: "Dummy question 16",
-    answer: "Miraitowa",
+    question: "Visual studio code is a: ",
+    answer: "code editor",
     options: [
-      "PyeongChang",
-      "Miraitowa",
-      "Nagano"
+      "code editor",
+      "text editor",
+      "integrated development environment"
     ]
   },
   {
     numb: 17,
-    question: "Dummy question 17",
-    answer: "Miraitowa",
+    question: "Which of the following is not an application?",
+    answer: ".java file",
     options: [
-      "PyeongChang",
-      "Miraitowa",
-      "Nagano"
+      "start menu",
+      "windows explorer",
+      ".java file"
     ]
   },
   {
     numb: 18,
-    question: "Dummy question 18",
-    answer: "Miraitowa",
+    question: "How many bits is 1 kilobyte?",
+    answer: "8192",
     options: [
-      "PyeongChang",
-      "Miraitowa",
-      "Nagano"
+      "8000",
+      "1024",
+      "8192"
     ]
   },
   {
     numb: 19,
-    question: "Dummy question 19",
-    answer: "Miraitowa",
+    question: "What is AI made of?",
+    answer: "Algorithms",
     options: [
-      "PyeongChang",
-      "Miraitowa",
-      "Nagano"
+      "A lot of code",
+      "Algorithms",
+      "if else statements"
     ]
   },
   {
     numb: 20,
-    question: "Dummy question 20",
+    question: "What are supercomputers used for?",
     answer: "Miraitowa",
     options: [
-      "PyeongChang",
-      "Miraitowa",
-      "Nagano"  
+      "data science",
+      "artificial intelligence",
+      "both"  
     ]
   },
 ];
