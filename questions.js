@@ -44,7 +44,7 @@ let allquestions = [
   },
   {
     numb: 5,
-    question: "What does ROM ",
+    question: "What does ROM stand for?",
     answer: "read only memory",
     options: [
       "read only memory",
@@ -54,7 +54,7 @@ let allquestions = [
   },
   {
     numb: 6,
-    question: "What is the extension for apps on windows",
+    question: "What is the extension for apps on windows?",
     answer: ".exe",
     options: [
       ".bin",
@@ -64,7 +64,7 @@ let allquestions = [
   },
   {
     numb: 7,
-    question: "What is the latest (2023) generation of intel cpus",
+    question: "What is the latest (2023) generation of intel cpus?",
     answer: "12th",
     options: [
       "10th",
@@ -74,7 +74,7 @@ let allquestions = [
   },
   {
     numb: 8,
-    question: "How many letters are there on a keyboard",
+    question: "How many letters are there on a keyboard?",
     answer: "26",
     options: [
       "34",
@@ -145,7 +145,7 @@ let allquestions = [
   {
     numb: 15,
     question: "Windows added explorer tabs in which update?",
-    answer: "Five continents",
+    answer: "windows 11 october update",
     options: [
       "windows 10 april update",
       "windows 11 initial release",
@@ -195,7 +195,7 @@ let allquestions = [
   {
     numb: 20,
     question: "What are supercomputers used for?",
-    answer: "Miraitowa",
+    answer: "both",
     options: [
       "data science",
       "artificial intelligence",
