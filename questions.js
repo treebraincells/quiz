@@ -4,27 +4,27 @@ let randomindex = []
 let allquestions = [
   {
     numb: 1,
-    question: "Who is the founder of Kumarans Schools?",
-    answer: "Smt R. Anasuya Devi",
+    question: "What is the most widely used OS?",
+    answer: "Windows 10",
     options: [
-      "Mrs. Deepa Sridhar",
-      "Smt. Meenakshi Balakrishnan",
-      "Smt. R. Anasuya Devi"
+      "Windows 11",
+      "Windows 10",
+      "MacOS"
     ]
   },
     {
     numb: 2,
-    question: "How many campuses of Kumarans Schools are there today?",
-    answer: "6",
+    question: "When was the first computer created?",
+    answer: "1822",
     options: [
-      "3",
-      "6",
-      "5"
+      "1822",
+      "1942",
+      "1874"
     ]
   },
   {
     numb: 3,
-    question: "When was the Mallasandra campus of SKPS built?",
+    question: "?",
     answer: "2009",
     options: [
       "2009",
